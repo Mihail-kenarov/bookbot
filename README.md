@@ -1,2 +1,1 @@
-# bookbot
-My first side project created on github
+# BookBot is my first project
