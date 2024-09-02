@@ -1,4 +1,4 @@
-# BookBot is my first side project
+# BookBot is my first side project, which is from a course on Boot.dev.
 
 
 It is a python program that reads a txt file and gives us some statistics. 
